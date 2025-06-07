@@ -57,5 +57,16 @@ void loop() {
 
 ![](https://github.com/OSCAROV2058/PRACTICA-ESP32-con-DHT11/blob/main/WhatsApp%20Image%202025-06-06%20at%208.11.14%20PM.jpeg?raw=true)
 
+### INSTRUCCIONES DE OPERACION
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la temperatura y humedad dando doble click al sensor DHT11.
+
+## RESULTADOS
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
+![]()
 
 EN ESTA PRACTICA UTILIZAREMOS EL SENSOR DHT11 PARA SIMULAR LA TEMPERATURA Y HUMEDAD DEL ENTORNO
