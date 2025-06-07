@@ -51,6 +51,6 @@ void loop() {
 ```
 2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
 
-
+![](https://github.com/DiegoJm10/Mantenimiento-predicitivo-de-un-torno/blob/main/EVIDENCIA%20DE%20IMAGENES/esp32.jpg?raw=true)
 
 EN ESTA PRACTICA UTILIZAREMOS EL SENSOR DHT11 PARA SIMULAR LA TEMPERATURA Y HUMEDAD DEL ENTORNO
