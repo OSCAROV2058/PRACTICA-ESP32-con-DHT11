@@ -72,4 +72,5 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 ## CREDITOS
 
 Desarrollado por Ing. Ocampo Villarreal Oscar Jair
+-https://github.com/OSCAROV2058
 
