@@ -55,7 +55,7 @@ void loop() {
 
 3. Hacer la conexion de DHT11 con la ESP32 como se muestra en la siguente imagen.
 
-![](https://github.com/OSCAROV2058/PRACTICA-ESP32-con-DHT11/blob/main/WhatsApp%20Image%202025-06-06%20at%208.06.19%20PM.jpeg?raw=tue)
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-con-DHT11/blob/main/WhatsApp%20Image%202025-06-06%20at%208.11.14%20PM.jpeg?raw=true)
 
 
 EN ESTA PRACTICA UTILIZAREMOS EL SENSOR DHT11 PARA SIMULAR LA TEMPERATURA Y HUMEDAD DEL ENTORNO
